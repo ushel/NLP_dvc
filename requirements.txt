@@ -1,0 +1,10 @@
+tqdm
+dvc
+pandas
+numpy
+Scipy
+pyyaml
+scikit-learn
+1xml
+
+-e . # <<uncomment this to install from setup.py
