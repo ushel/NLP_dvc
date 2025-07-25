@@ -16,7 +16,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/ushel/NLP_dvc.git",
-    author_email=utkarsh03@icloud.com,
+    author_email="utkarsh03@icloud.com",
     packages=[SRC_REPO],
     license="MIT",
     python_requires=">=3.6",
